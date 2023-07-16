@@ -1,43 +1,54 @@
 ---
 layout: page
-title: simple site
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+title: Yonatan Lourie
+tagline: 
+description: 
 ---
 
-[Github Pages](https://pages.github.com) provide a simple way to make a
-website using
-[Markdown](https://daringfireball.net/projects/markdown/) and
-[git](https://git-scm.com).
 
-For me, the painful aspects of making a website are
+I'm Yonatan, a grad student at Tel Aviv University (TAU), specializing in Statistics and Data Science. 
+In addition to my studies, I'm also gaining practical experience as a part of the data science team at [Forter](https://www.linkedin.com/company/forter). I have a strong passion for machine learning, statistics, and data analysis, along with strong computer science skills including OOP and experience with technologies like spark, git, docker, elasticSearch, jenkins and more. 
 
-- Working with html and css
-- Finding a hosting site
-- Transferring stuff to the hosting site
+---
+Posts
 
-With [GitHub Pages](https://pages.github.com), you just write things in
-[Markdown](https://daringfireball.net/projects/markdown/),
-[GitHub](https://github.com) hosts the site for you, and you just push
-material to your GitHub repository with `git add`, `git commit`, and
-`git push`.
+- [Making a jekyll-free site](pages/2023-07-12-first-page.html)
 
-If you love [git](https://git-scm.com/) and
-[GitHub](https://github.com), you'll love
-[GitHub Pages](https://pages.github.com), too.
+1.  **Object oriented programming (Java)** - Some OOP projects in java. 
 
-The sites use [Jekyll](https://jekyllrb.com/), a
-[ruby](https://www.ruby-lang.org/en/) [gem](https://rubygems.org/), to
-convert Markdown files to html, and this part is done
-automatically when you push the materials to the `gh-pages` branch
-of a GitHub repository.
+	- [Bricker game](https://github.com/yonatanlou/study_projects_bsc/tree/main/Introduction%20to%20OOP/Bricker).
+	- [AsciiArt](https://github.com/yonatanlou/study_projects_bsc/tree/main/Introduction%20to%20OOP/AsciiArtEx6_)
+	- [WorldSimulation](https://github.com/yonatanlou/study_projects_bsc/tree/main/Introduction%20to%20OOP/pepse)
+3. **Statistical Learning and data analysis** - Really interesting course that covered most of the topics in ISLR and in [Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) by Shalizi. 
+Projects:
+	- [Car accidents analysis](https://github.com/yonatanlou/study_projects_bsc/blob/main/Statistical_learning_and_data%20analysis/lab1/Lab1.pdf) -EDA and PCA.
+	- [fMri data](https://htmlpreview.github.io/?https://github.com/yonatanlou/study_projects_bsc/blob/main/Statistical_learning_and_data%20analysis/lab3/Lab3.html#prediction-model) - Kernel regression, regularization methods, image analysis.
+	- [Forest Cover Type](https://htmlpreview.github.io/?https://github.com/yonatanlou/study_projects_bsc/blob/main/Statistical_learning_and_data%20analysis/final_lab/Final_lab.html) - Naive bayes (raw implementation), feature engineering, classifiers (XGboost, svm, RandomForest and more). 
+5. **Decrypting Ciphertext Using Markov Chain Monte Carlo** - [link](https://github.com/yonatanlou/Decrypting-Classical-Cipher-Text-Using-MCMC).
 
-The [GitHub](https://pages.github.com) and
-[Jekyll](https://jekyllrb.com) documentation is great, but I thought it
-would be useful to have a minimal tutorial, for those who just want to
-get going immediately with a simple site. To some readers, what GitHub
-has might be simpler and more direct.  But if you just want to create
-a site like the one you're looking at now, read on.
+[For more projects](https://github.com/yonatanlou/study_projects_bsc)
+ 
+<p align='center' href="https://www.linkedin.com/in/yonatanlourie/">
+    <img src="https://3.bp.blogspot.com/-dYWcbKVsiGY/V8RFmMFnLjI/AAAAAAAAG9Y/Qr_PGmR0V8MhSXb8-rBdAsdciny-oql2ACLcB/s1600/1datasaurus.png" 
+	 width="300" 
+     height="200"/>
+  </p>
+
+<p align='center'>
+  
+  <a href="https://www.linkedin.com/in/yonatanlourie/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://spoti.fi/3iAMGi3">
+    <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+    <a href="https://www.goodreads.com/user/show/103722180-yonatan-lourie">
+    <img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  
+</p>
+
+---
 
 Start by reading the [Overview page](pages/overview.html), which
 explains the basic structure of these sites. Then read
