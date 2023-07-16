@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yonatan Lourie
+title: Yonatan Lourie (under maintainence)
 tagline: 
 description: 
 ---
@@ -14,15 +14,6 @@ Posts
 
 - [Making a jekyll-free site](pages/2023-07-12-first-page.html)
 
-1.  **Object oriented programming (Java)** - Some OOP projects in java. 
-
-	- [Bricker game](https://github.com/yonatanlou/study_projects_bsc/tree/main/Introduction%20to%20OOP/Bricker).
-	- [AsciiArt](https://github.com/yonatanlou/study_projects_bsc/tree/main/Introduction%20to%20OOP/AsciiArtEx6_)
-	- [WorldSimulation](https://github.com/yonatanlou/study_projects_bsc/tree/main/Introduction%20to%20OOP/pepse)
-3. **Statistical Learning and data analysis** - Really interesting course that covered most of the topics in ISLR and in [Advanced Data Analysis from an Elementary Point of View](https://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/) by Shalizi. 
-Projects:
-	- [Car accidents analysis](https://github.com/yonatanlou/study_projects_bsc/blob/main/Statistical_learning_and_data%20analysis/lab1/Lab1.pdf) -EDA and PCA.
-	- [fMri data](https://htmlpreview.github.io/?https://github.com/yonatanlou/study_projects_bsc/blob/main/Statistical_learning_and_data%20analysis/lab3/Lab3.html#prediction-model) - Kernel regression, regularization methods, image analysis.
 	- [Forest Cover Type](https://htmlpreview.github.io/?https://github.com/yonatanlou/study_projects_bsc/blob/main/Statistical_learning_and_data%20analysis/final_lab/Final_lab.html) - Naive bayes (raw implementation), feature engineering, classifiers (XGboost, svm, RandomForest and more). 
 5. **Decrypting Ciphertext Using Markov Chain Monte Carlo** - [link](https://github.com/yonatanlou/Decrypting-Classical-Cipher-Text-Using-MCMC).
 
