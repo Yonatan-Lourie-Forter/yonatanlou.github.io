@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yonatan Lourie (under maintainence)
+title: Yonatan Lourie (under maintenance)
 tagline: 
 description:
 ---
