@@ -18,18 +18,15 @@ I like to learn how to use new technologies while focusing in Python, R, Spark, 
 
 ## Posts
 
-- **Decrypting Ciphertext Using Markov Chain Monte Carlo** - [link](https://github.com/yonatanlou/Decrypting-Classical-Cipher-Text-Using-MCMC).
-
-- [For more projects](https://github.com/yonatanlou/study_projects_bsc)
+- **[Decrypting Ciphertext Using MCMC](https://github.com/yonatanlou/Decrypting-Classical-Cipher-Text-Using-MCMC)**.
+- **[My favorite podcasts](https://lists.pocketcasts.com/a40aa50c-df70-4a37-bf02-3ccb6e7e49bc)** (Episodes and shows)
+- [**For more projects**](https://github.com/yonatanlou/study_projects_bsc)
 
 ---
 
 
 
 \
-\
-\
-
 
 <p align="center">
   <img src="assets/themes/twitter/bootstrap/img/pixel_me.jpg" alt="Sublime's custom image" width="100" />
